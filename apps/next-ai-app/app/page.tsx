@@ -19,7 +19,7 @@ export default function Chat() {
         id="models"
         className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
       >
-        <option selected>Choose a Model</option>
+        <option>Choose a Model</option>
         <option value="gemma-7b" selected>
           gemma-7b
         </option>
